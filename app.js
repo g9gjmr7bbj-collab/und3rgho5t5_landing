@@ -20,6 +20,22 @@ const CAMPAIGN = {
       bottom: "SPOTIFY",
       icon: "▶",
       url: "https://open.spotify.com/track/1S7YA5JPO7keyhfsLFkeAR"
+    },
+    {
+      type: "secondary",
+      platform: "Apple Music",
+      top: "Play on",
+      bottom: "APPLE",
+      icon: "▶",
+      url: "https://music.apple.com/us/album/th1s-m3ss/1861223982?i=1861223983&at=1000lHKX&ct=api_http&itsct=odsl_m&itscg=30200&ls=1"
+    },
+    {
+      type: "secondary",
+      platform: "Amazon Music",
+      top: "Play on",
+      bottom: "AMAZON",
+      icon: "▶",
+      url: "https://music.amazon.com/albums/B0G6W5SMYY?trackAsin=B0G6WMM83S"
     }
 
     // Beispiel:
